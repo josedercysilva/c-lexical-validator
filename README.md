@@ -1,7 +1,5 @@
 # Validador Analítico de Cadeias e Sintaxe
 
-> **Nota de Build:** A documentação original foi redigida em Markdown (`README.md`). A conversão estrutural para código-fonte LaTeX foi automatizada via `pandoc`, e a compilação final do PDF foi executada com o motor `tectonic`.
-
 Este projeto implementa um motor de validação sintática. Ele recebe uma sequência de caracteres e verifica se todos os pares de abertura e fechamento estão perfeitamente balanceados, simulando a análise léxica de um compilador. 
 
 A arquitetura foi dividida em três módulos independentes, focando em segurança de memória e responsabilidades isoladas.
