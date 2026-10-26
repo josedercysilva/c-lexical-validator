@@ -1,5 +1,7 @@
 # Validador Analítico de Cadeias e Sintaxe
 
+## teste 
+
 Este projeto implementa um motor de validação sintática. Ele recebe uma sequência de caracteres e verifica se todos os pares de abertura e fechamento estão perfeitamente balanceados, simulando a análise léxica de um compilador. 
 
 A arquitetura foi dividida em três módulos independentes, focando em segurança de memória e responsabilidades isoladas.
